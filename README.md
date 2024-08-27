@@ -7,5 +7,5 @@
 - Atualmente estou me aventurando no **front-end**.
 - Aqui estão as tecnologias nas quais eu tenho me aprofundado : 
 <div align="center" style="margin: 0px;">
-    <img src="https://skillicons.dev/icons?i=ts,bun,nodejs,react,next, &perline=6" />
+    <img src="https://skillicons.dev/icons?i=ts,bun,react,next, &perline=6" />
 </div>
