@@ -1,16 +1,11 @@
-## Hi there 👋
+<div align="center">
+    <h1>Olá mundo! Meu nome é Luciano Magno</h1>
+</div>
+<br>
 
-<!--
-**Anloucy/Anloucy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Eu sou um estudante de **Ciência da Computação**, e estou atualmente no **8º período**.
+- Atualmente estou me aventurando no **front-end**.
+- Aqui estão as tecnologias nas quais eu tenho me aprofundado : 
+<div align="center" style="margin: 0px;">
+    <img src="https://skillicons.dev/icons?i=ts,bun,nodejs,react,next, &perline=6" />
+</div>
